@@ -1,6 +1,6 @@
 import requests
 
-base_url = "https://book-review-api-v7t4.onrender.com/process-text"
+base_url = "https://127.0.0.1:5000/process-text"
 
 params = {
     "text": "Hello World",
